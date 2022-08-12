@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: linear-gradient(to right, orange, green);
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Copperplate, Papyrus, fantasy;
+    opacity: 0.6;
+}
+
+h2 {
+    font-family: Garamond, serif;
+    opacity: 0.8;
+}
+
+button {
+    padding: 6px;
+    margin-top: 15px;
+}
